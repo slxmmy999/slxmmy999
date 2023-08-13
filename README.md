@@ -24,7 +24,7 @@ I love meeting new people in the open-source community and collaborating wheneve
 
 - Python
 - Javacript (Node.js)
-- Web Dev (HTML, CSS, React)
+- Web Dev (HTML, CSS, React, Vue)
 - Mobile Dev (Swift, React Native)
 - C/C++
 - Discord.js
