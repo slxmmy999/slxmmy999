@@ -11,7 +11,7 @@ I'm a programmer who's deeply influenced by the punk rock scene. Like punk rock,
 
 ## :headphones: My Projects
 
-- [Infinite Immaculate Grid](https://github.com/slxmmy999/InfiniteImmaculateGrid): An open-source community run version of the popular daily MLB trivia game Immaculate Grid, that allows an unlimited amount of grids per day.
+- [Infinite Baseball Grid](https://github.com/slxmmy999/InfiniteImmaculateGrid): An open-source community run version of the popular daily MLB trivia game Immaculate Grid, that allows an unlimited amount of grids per day.
 - [ChatGPT Mobile](https://github.com/slxmmy999/ChatGPT-Mobile): A Python application to use ChatGPT through mobile SMS applications such as iMessage.
 - [Music Recommendation GPT](https://github.com/slxmmy999/Music-Recommendation-GPT): I'm currently working on a Language Model based music recommendation system. This project is in its early stages but aims to be an extremely flexible recommendation system.
 - [apttools](https://github.com/slxmmy999/apttools): A C project with tools for shortening apt commands and making installing/updating using apt more efficient.
